@@ -1,0 +1,7 @@
+C:\Users\YAVUZ İMER\Desktop\Staircase\Staircase\bin\Debug\Staircase.exe.config
+C:\Users\YAVUZ İMER\Desktop\Staircase\Staircase\bin\Debug\Staircase.exe
+C:\Users\YAVUZ İMER\Desktop\Staircase\Staircase\bin\Debug\Staircase.pdb
+C:\Users\YAVUZ İMER\Desktop\Staircase\Staircase\obj\Debug\Staircase.csprojAssemblyReference.cache
+C:\Users\YAVUZ İMER\Desktop\Staircase\Staircase\obj\Debug\Staircase.csproj.CoreCompileInputs.cache
+C:\Users\YAVUZ İMER\Desktop\Staircase\Staircase\obj\Debug\Staircase.exe
+C:\Users\YAVUZ İMER\Desktop\Staircase\Staircase\obj\Debug\Staircase.pdb
